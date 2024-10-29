@@ -13,4 +13,4 @@ Group Conversations: Engage with multiple users in chat rooms.
 Learning UIKit & Firebase: A great project for developers to practice UIKit components and integrate Firebase backend.
 In summary, FlashChat built with UIKit is an interactive chat app that offers real-time communication with a sleek, native iOS experience, using Swift and Firebase for functionality.
 
-<img src="M4.png" width="200"> <img src="M.png" width="200"> <img src="M2.png" width="200"> <img src="M3.png" width="200"> 
+<img src="M4.png" width="400"> <img src="M.png" width="400"> <img src="M2.png" width="400"> <img src="M3.png" width="400"> 
